@@ -1,14 +1,9 @@
-															CSL-603
-													  PROJECT SUBMISSION
+							Machine Learning Project.
 
+The three folders contain three different datasets to run the model on.
 
-		THE DIRECTORY CONTAINS
-		|
-		|-svmguide1(folder)
-		|-generate(folder)
-		|-splice_scale(folder)
-		|-README(THIS ONE)
-		|-Report.pdf
+To run on a dataset, go to the desired folder and just run script.m(in each folder) file in matlab.
 
+The code will generate the desired result.
 
-		The three folders contain three different datasets to run the model on. To run on a dataset, go to the desired folder and just run script.m(in each folder) file in matlab. The code will generate the desired result.
+I only used the Gaussian Kernel in our implementation, use can also add more kernels.
