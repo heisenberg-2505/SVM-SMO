@@ -1,0 +1,14 @@
+															CSL-603
+													  PROJECT SUBMISSION
+
+
+		THE DIRECTORY CONTAINS
+		|
+		|-svmguide1(folder)
+		|-generate(folder)
+		|-splice_scale(folder)
+		|-README(THIS ONE)
+		|-Report.pdf
+
+
+		The three folders contain three different datasets to run the model on. To run on a dataset, go to the desired folder and just run script.m(in each folder) file in matlab. The code will generate the desired result.
